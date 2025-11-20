@@ -1,1 +1,2 @@
 Blog Post 1: Introduction to Git
+Blog Post 2: Understanding Branches
